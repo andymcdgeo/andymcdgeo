@@ -5,6 +5,7 @@ I'm a petrophysicist / geoscientist within the oil and gas industry. I am passio
 ## Find me on the web 🌎:
 - Twitter: https://twitter.com/geoandymcd 
 - LinkedIn: https://www.linkedin.com/in/andymcdonaldgeo/
+- Medium: https://andymcdonaldgeo.medium.com/
 
 ## Latest Blog Posts:
 - [Visualising Well Data Coverage Using Matplotlib](http://andymcdonald.scot/visualising-well-data-coverage-using-matplotlib)
