@@ -3,6 +3,7 @@
 I'm a petrophysicist / geoscientist within the oil and gas industry. I am passionate about learning and developing apps using Python, data science, and sharing knowledge amongst the community.
 
 ## Find me on the web 🌎:
+- Website: http://andymcdonald.scot
 - Twitter: https://twitter.com/geoandymcd 
 - LinkedIn: https://www.linkedin.com/in/andymcdonaldgeo/
 - Medium: https://andymcdonaldgeo.medium.com/
