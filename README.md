@@ -1,6 +1,6 @@
 # Hey there and welcome to my GitHub Repo👋
 
-I'm a petrophysicist / geoscientist within the oil and gas industry. I am passionate about learning and developing apps using Python, data science, and sharing knowledge amongst the community.
+I'm a petrophysicist / geoscientist within the oil and gas industry. I am passionate about learning and developing apps using Python, data science, machine learning and sharing knowledge amongst the community.
 
 ## Find me on the web 🌎:
 - Website: http://andymcdonald.scot
