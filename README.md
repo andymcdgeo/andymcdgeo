@@ -1,16 +1,22 @@
 # Hey there and welcome to my GitHub Repo👋
 
-I'm Andy, a petrophysicist / geoscientist with a passion for data science and machine learning. I enjoy helping other geoscientists apply those techniques to their daily projects by sharing knowledge on YouTube, Medium and LinkedIn.
+I'm Andy, a petrophysicist / geoscientist with a passion for data science and machine learning. Over the past few years I have been interested in applying machine learning and data science techniques to petrophysical datasets, as well as exploring various libraries that can be used to visualise petrophysical and geoscience data. I also enjoy helping other geoscientists apply those techniques to their daily projects by sharing knowledge on YouTube, Medium and LinkedIn.
 
 My main research interests are in data visualisation, data quality control and general machine learning applications in the geoscience domain.
 
 ## Some of My Repositories that You May Find Interesting 🌎:
-- [Python and Petrophysics Notebooks](https://github.com/andymcdgeo/Petrophysics-Python-Series)
-- [Working with MissingNo to Identify Missing Data](https://github.com/andymcdgeo/missingno_tutorial)
-- [SPWLA 2021 Machine Learning Workshop](https://github.com/andymcdgeo/spwla2021_ml_workshop)
+**[Python and Petrophysics Notebooks](https://github.com/andymcdgeo/Petrophysics-Python-Series)**
+A series of Jupyter notebooks exploring how Python can be used to explore, analyse and visualise geological and petrophysical data.
+
+**[SPWLA 2021 Machine Learning Workshop](https://github.com/andymcdgeo/spwla2021_ml_workshop)**
+A machine learning workshop that was delivered as part of the SPWLA 2021 confernce. Subjects covered include data quality control, dealing with missing data, petrophysical property prediction and facies analysis through unsupervised learning techniques.
+
+**[Python Notebooks to Accompany My YouTube Videos](https://github.com/andymcdgeo/Andys_YouTube_Notebooks)**
+A series of notebooks that accompany the videos I regularly share on YouTube.
 
 ## Find me on the web 🌎:
 - Website: https://www.andymcdonald.scot
+- YouTube: [https://www.youtube.com/channel/UCn1O_4_ApzbYwrsUdRoMmOg](https://www.youtube.com/@AndyMcDonald42)
 - LinkedIn: https://www.linkedin.com/in/andymcdonaldgeo/
 - Medium: https://andymcdonaldgeo.medium.com/
 
